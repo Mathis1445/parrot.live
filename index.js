@@ -36,7 +36,7 @@ const colorsOptions = [
   'blue',
   'magenta',
   'cyan',
-  'white'
+  'brown'
 ];
 const numColors = colorsOptions.length;
 const selectColor = previousColor => {
